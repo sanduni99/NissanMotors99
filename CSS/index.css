@@ -1,0 +1,44 @@
+/* Define Veriable */
+/*$theam: #147f8f;
+$theam_darkplus: #106a77;
+$theam_darkplusplus: #0e5762;
+$theam_lightplus: #1892a4;
+$theam_lightplusplus: #1ca9be;
+
+$bgcolor:#c3c7c2;*/
+
+body {
+  background-color: #ffffff;
+}
+
+.welcome-div{
+  background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("../Images/Sale1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: auto;
+}
+
+.text_Welcome {
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
+
+.whitetxt{
+  color: #ffffff;
+}
+
+.adds{
+  background-color: #ffffff;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+
+
+
+
+
+
